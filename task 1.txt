@@ -1,0 +1,11 @@
+Favorite App: Spotify
+
+If I were part of the development team of Spotify, I would introduce a feature called “Mood-Based Music Journey.”
+
+Currently, Spotify recommends songs based on listening history, but it does not fully understand the user’s current emotional state. This feature would allow users to select their mood, such as “I need motivation,” “I want to relax,” “I feel nostalgic,” or “I want to focus,” and Spotify’s AI would create a personalized playlist along with podcasts, music suggestions, and short audio experiences matching that mood.
+
+I would introduce this feature because music is closely connected with emotions, and users often choose songs based on how they feel at a particular moment rather than just their previous listening habits. It would make the experience more personal and help users discover meaningful content.
+
+I would also consider removing excessive podcast recommendations from the home page for users who mainly use Spotify for music. While podcasts are a valuable part of Spotify, showing too much unrelated content can make the interface feel cluttered. A more personalized home screen would improve user experience.
+
+Overall, my goal would be to make Spotify feel less like a music library and more like an intelligent companion that understands each user’s needs.
